@@ -1,1 +1,1 @@
-# html-course
+# htmlc
